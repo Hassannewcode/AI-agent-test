@@ -1,0 +1,5 @@
+{
+  "name": "AI Browser Agent",
+  "description": "An intelligent agent that uses Google Search to answer questions and complete tasks based on web content. Provide a task or question, optionally with a URL for context, and the agent will browse the web to find the answer.",
+  "requestFramePermissions": []
+}
